@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hsmj5301
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning python as a main and javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently learning python, java and moe
 - 📫 How to reach me at redditu/hsmj530
