@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @hsmj5301
 - 👀 I’m a Software Engineer
-- 🌱 I’m currently learning python, java and moe
-- 📫 How to reach me at redditu/hsmj530
+
